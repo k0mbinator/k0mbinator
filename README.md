@@ -1,5 +1,8 @@
 ## Hi there 👋
+🌱 I’m currently learning ...
 
+ - Building Offline and Online Pages with .NET Blazor (WASM)
+ - Deepening understanding of XAML and building handy Application with userfriendly GUIs
 <!--
 **k0mbinator/k0mbinator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
