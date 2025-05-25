@@ -27,7 +27,7 @@ Die Möglichkeit, mit Technologie komplexe Probleme zu lösen und dabei einen di
 
 ---
 
-// Kontakt:
+### Kontakt:
 
 ##* [www.linkedin.com/in/martin-k-185803320] (LinkedIn)
 
