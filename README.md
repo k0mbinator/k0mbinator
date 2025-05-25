@@ -30,6 +30,7 @@ Die Möglichkeit, mit Technologie komplexe Probleme zu lösen und dabei einen di
 ### Kontakt:
 
 * [www.linkedin.com/in/martin-k-185803320] (LinkedIn)
+* **Kontakt für weitere Projekte:** Gerne teile ich auf Anfrage auch Links zu privat gestellten Repositories.
 
 
 ---
