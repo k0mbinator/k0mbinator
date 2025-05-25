@@ -27,10 +27,10 @@ Die Möglichkeit, mit Technologie komplexe Probleme zu lösen und dabei einen di
 
 ---
 
-### Kontakt:
+// Kontakt:
 
-* [Ihr LinkedIn-Profil-Link hier einfügen] (Optional)
-* [Ihre E-Mail-Adresse hier einfügen] (Optional)
+##* [www.linkedin.com/in/martin-k-185803320] (LinkedIn)
+
 
 ---
 
@@ -67,5 +67,5 @@ I'm passionate about solving complex problems with technology and creating tangi
 
 ### Connect with me:
 
-* [Your LinkedIn Profile Link Here] (Optional)
-* [Your Email Address Here] (Optional)
+* [www.linkedin.com/in/martin-k-185803320] (LinkedIn)
+
