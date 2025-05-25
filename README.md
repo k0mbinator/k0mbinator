@@ -1,20 +1,71 @@
 ## Hi there 👋
-🌱 I’m currently learning ...
 
- - Building Offline and Online Pages with .NET Blazor (WASM)
- - Deepening understanding of XAML and building handy Application with userfriendly GUIs
- - Learning the HL7 - message-mechanism
-<!--
-**k0mbinator/k0mbinator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich bin ein **engagierter Fachinformatiker für Anwendungsentwicklung** 💻, der sich auf die **Automatisierung und Optimierung von IT-Systemen** sowie die **Entwicklung robuster Web-Anwendungen** mit C#/.NET konzentriert.
 
-Here are some ideas to get you started:
+🌱 Aktuell vertiefe ich meine Kenntnisse in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **HL7-Schnittstellenentwicklung:** Ich arbeite intensiv daran, das Kernverständnis von HL7-Nachrichten (Struktur, Kommunikation, Subtilitäten) zu beherrschen und praktische Erfahrungen in der Implementierung von Datenflüssen zwischen medizinischen Systemen zu sammeln. 🏥
+* **Oracle SQL Datenbankintegration:** Insbesondere der effiziente Umgang mit Oracle-Datenbanken für Datenmanagement und Performance-Optimierung. 📊
+* **Moderner Web-Entwicklung:** Mit Fokus auf Blazor (WebAssembly) für effiziente und interaktive Frontend-Lösungen. ✨
+* **Clean Code & Software-Qualität:** Anwendung von Best Practices und Nutzung von Tools (wie SonarQube) zur Sicherstellung von sauberem, wartbarem und sicherem Code. 🛡️
+
+---
+
+### Aktuelle Projekte
+
+Hier sind einige meiner aktiven Projekte, die meine Fähigkeiten demonstrieren:
+
+* **HL7-Datenintegrations-Pipeline (C#/.NET Core):** Ein End-to-End-Projekt, das HL7v2-Nachrichten aus Dateien parst, relevante Patientendaten extrahiert und diese sicher in einer Oracle-Datenbank speichert. [Link zu diesem spezifischen Projekt-Repository hier einfügen!] 🔗
+* **Produktionsdaten-Webanwendung (ASP.NET):** Entwicklung einer Web-Applikation zur Erfassung, Visualisierung und Analyse von Produktionsdaten, inklusive Datenbankinteraktion und grafischer Auswertung. 📈
+* _Weitere Projekte und Beiträge werden kontinuierlich hinzugefügt..._
+
+---
+
+### Was mich antreibt:
+
+Die Möglichkeit, mit Technologie komplexe Probleme zu lösen und dabei einen direkten Mehrwert zu schaffen – besonders im dynamischen Umfeld des Gesundheitswesens. Meine ausgeprägte Lernfähigkeit und proaktive Herangehensweise ermöglichen es mir, neue Herausforderungen schnell zu meistern. 🚀
+
+---
+
+### Kontakt:
+
+* [Ihr LinkedIn-Profil-Link hier einfügen] (Optional)
+* [Ihre E-Mail-Adresse hier einfügen] (Optional)
+
+---
+
+## English Version
+
+## Hi there 👋
+
+I'm a **dedicated IT Specialist for Application Development** 💻, focused on **automating and optimizing IT systems** and building **robust web applications** using C#/.NET.
+
+🌱 Currently, I'm deepening my expertise in:
+
+* **HL7 Interface Development:** Mastering the core understanding of HL7 messages (structure, communication, subtleties) and gaining hands-on experience in implementing data flows between medical systems. 🏥
+* **Oracle SQL Database Integration:** Particularly focusing on efficient data management and performance optimization with Oracle databases. 📊
+* **Modern Web Development:** Leveraging Blazor (WebAssembly) for creating efficient and interactive frontend solutions. ✨
+* **Clean Code & Software Quality:** Applying best practices and utilizing tools (like SonarQube) to ensure clean, maintainable, and secure code. 🛡️
+
+---
+
+### Current Projects
+
+Here are some of my active projects that showcase my skills:
+
+* **HL7 Data Integration Pipeline (C#/.NET Core):** An end-to-end project demonstrating the processing of HL7v2 messages from files, extracting relevant patient data, and securely storing it in an Oracle database. [Link to this specific project repository here!] 🔗
+* **Production Data Web Application (ASP.NET):** Development of a web application for capturing, visualizing, and analyzing production data, including database interaction and graphical reporting. 📈
+* _More projects and contributions are continuously being added..._
+
+---
+
+### What drives me:
+
+I'm passionate about solving complex problems with technology and creating tangible value – especially within dynamic fields like healthcare IT. My strong self-learning ability and proactive approach enable me to quickly master new challenges. 🚀
+
+---
+
+### Connect with me:
+
+* [Your LinkedIn Profile Link Here] (Optional)
+* [Your Email Address Here] (Optional)
