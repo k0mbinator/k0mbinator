@@ -15,7 +15,7 @@ Ich bin ein **engagierter Fachinformatiker für Anwendungsentwicklung** 💻, de
 
 Hier sind einige meiner aktiven Projekte, die meine Fähigkeiten demonstrieren:
 
-* **HL7-Datenintegrations-Pipeline (C#/.NET Core):** Ein End-to-End-Projekt, das HL7v2-Nachrichten aus Dateien parst, relevante Patientendaten extrahiert und diese sicher in einer Oracle-Datenbank speichert. [Link zu diesem spezifischen Projekt-Repository hier einfügen!] 🔗
+* **HL7-Datenintegrations-Pipeline (C#/.NET Core):** Ein End-to-End-Projekt, das HL7v2-Nachrichten aus Dateien parst, relevante Patientendaten extrahiert und diese sicher in einer Oracle-Datenbank speichert. [https://github.com/k0mbinator/HL7DataProcessor] 🔗
 * **Produktionsdaten-Webanwendung (ASP.NET):** Entwicklung einer Web-Applikation zur Erfassung, Visualisierung und Analyse von Produktionsdaten, inklusive Datenbankinteraktion und grafischer Auswertung. 📈
 * _Weitere Projekte und Beiträge werden kontinuierlich hinzugefügt..._
 
